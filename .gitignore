@@ -1,0 +1,6 @@
+﻿*
+!site/
+!site/**
+!.github/
+!.github/**
+!.gitignore
